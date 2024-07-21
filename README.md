@@ -1,2 +1,2 @@
 <h1>Profile Card</h1>
-this is the mini project made by me 
+<p>This repository containes a mini-project made by me and that is a profile card . </p>
