@@ -1,2 +1,2 @@
 <h1>Profile Card</h1>
-this is hte mini project made byme 
+this is the mini project made by me 
