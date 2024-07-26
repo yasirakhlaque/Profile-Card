@@ -70,7 +70,7 @@ p{
     width: 100%;
     font-size: small;
     font-weight:500;
-    Text-align:center;
+    text-align:center;
 }
 .btns{
     display: flex;
